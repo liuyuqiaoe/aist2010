@@ -1,3 +1,6 @@
 [submodule "SCLOrkSynths"]
 	path = SCLOrkSynths
 	url = https://github.com/SCLOrkHub/SCLOrkSynths.git
+[submodule "harmonixset"]
+	path = harmonixset
+	url = https://github.com/urinieto/harmonixset.git
