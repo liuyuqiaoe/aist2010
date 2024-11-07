@@ -1,0 +1,3 @@
+[submodule "SCLOrkSynths"]
+	path = SCLOrkSynths
+	url = https://github.com/SCLOrkHub/SCLOrkSynths.git
